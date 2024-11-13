@@ -40,7 +40,7 @@
 
 ### Проект №1. Анализ резюме из HeadHunter
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" width=45% align="left">
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" width=47% align="left">
 
 <div align="justify">
 
