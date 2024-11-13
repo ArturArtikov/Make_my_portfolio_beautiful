@@ -6,7 +6,7 @@
 
 ## Краткое описание
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects7.png" height=45% width=45% align="left"> 
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects7.png" height=51% width=51% align="left"> 
 
 <div align="justify">
 
