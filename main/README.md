@@ -42,7 +42,7 @@
 
 #### Краткое описание проекта
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" height=50% width=50% align="left">
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" height=50% width=60% align="left">
 
 <div align="justify">
 
