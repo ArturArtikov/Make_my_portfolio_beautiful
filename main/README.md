@@ -42,9 +42,13 @@
 
 #### Краткое описание проекта
 
-<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" height=150 align="left">
+<img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/1_personal_projects/project1.png" height=50% width=50% align="left">
+
+<div align="justify">
 
 Нашим заказчиком выступает крупнейшая российская компания интернет-рекрутмента - [HeadHunter](https://hh.ru/). У нас в руках есть база резюме, выгруженных с сайта. Проблема заключается в том, что часть соискателей не указывает заработную плату, когда составляет резюме. Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю. Наша задача - преобразовать, исследовать и провести базовую очистку данных, чтобы специалисты компании смогли разработать такую модель. 
+
+</div>
 
 #### Используемый стек и технологии
 
@@ -61,7 +65,6 @@
 
 > [Подробнее о проекте](https://github.com/ArturArtikov/Portfolio/tree/main/2_personal_projects/project_1)
 
-:arrow_up: [к оглавлению](https://github.com/ArturArtikov/Portfolio/blob/main/README.md#персональные-проекты)
 
 <br/>
 
