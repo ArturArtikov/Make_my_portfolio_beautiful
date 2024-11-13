@@ -1,8 +1,8 @@
 # Axenix Business Cup & HSE Case Club
 
-## Краткое описание
-
 <img src="https://github.com/ArturArtikov/Portfolio/blob/main/1_media/3_case_championships_projects/case_projects1.jpg" height=100% width=100% align="center"> 
+
+## Краткое описание
 
 __Кейс:__ M&A в банковском секторе: Стратегия присоединения
 
